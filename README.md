@@ -34,5 +34,3 @@ Enter the number associated with the operation you wish to perform:
 📂 File
 simple_calc.py — the main calculator script
 
-🛑 Exit
-To stop the calculator, press Ctrl + C or close the terminal window.
